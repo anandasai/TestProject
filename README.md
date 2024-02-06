@@ -1,4 +1,3 @@
 # TestProject
-This is a test project
-Looking ahead to getting back to writing code.
-Last Change Before Delete
+This is a test project.
+I am going to use this to start playing with Terraform. 
